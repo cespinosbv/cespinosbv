@@ -1,0 +1,41 @@
+commit a529e936d45163b724ee5aa69b85f3c080feef4b
+Author: Carlos Espinosa <cespinos.bv@gmail.com>
+Date:   Tue Nov 2 14:02:17 2021 -0300
+
+    ciudad desidida a la mudanza
+
+commit 6d85b9ca9293134e2ade65368552f8724ad04227
+Author: Carlos Espinosa <cespinos.bv@gmail.com>
+Date:   Tue Nov 2 13:37:24 2021 -0300
+
+    estado pensnado al irme a vivir
+
+commit ec8309d510d864172915e117029e1810bec840d5
+Author: Carlos Espinosa <cespinos.bv@gmail.com>
+Date:   Tue Nov 2 13:24:31 2021 -0300
+
+    estudio de las razones del por que mudarme
+
+commit f5a700740cb2a50851eed6bf10d944e54cd79863
+Author: Carlos Espinosa <cespinos.bv@gmail.com>
+Date:   Tue Nov 2 13:20:51 2021 -0300
+
+    decicion de mudanza
+
+commit b809bb3752a7f653c6b37c6101e50ac8c7b1b5c5
+Author: Carlos Espinosa <cespinos.bv@gmail.com>
+Date:   Tue Nov 2 13:18:22 2021 -0300
+
+    reflejo de llegada al pais
+
+commit 29ebb152039b942e2a29b30fb900bb0efc083164
+Author: Carlos Espinosa <cespinos.bv@gmail.com>
+Date:   Tue Nov 2 13:06:47 2021 -0300
+
+    este es el inicio de mi biografia
+
+commit 2e8d7bc3aee82c624cb36b748731badea6509384
+Author: Carlos Espinosa <cespinos.bv@gmail.com>
+Date:   Tue Nov 2 13:01:56 2021 -0300
+
+    este es el inicio de mi biografia
