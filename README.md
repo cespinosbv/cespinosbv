@@ -1,16 +1,22 @@
-### Hi there 👋
-### esto es una prueba
-<!--
-**cespinosbv/cespinosbv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Este es mi primer trabajo utlizando Github
 
-Here are some ideas to get you started:
+- aqui empezare a mostrar mi trabajo el cual ira evolucionando con el pasar del tiempoy mostrar a ustedes que nunca es tarde para empezar a aprender
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
+
+
+**Tabla de  Contenido**
+
+
+##### -  readme.md
+##### - block.html
+##### -  carpeta de Css
+##### - estilos.ccs
+
+# Nuevas caracteristicas
+----
+
+
+
+###Fin
