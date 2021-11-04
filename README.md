@@ -8,15 +8,13 @@
 
 **Tabla de  Contenido**
 
-
-##### -  readme.md
+##### - index.html
+##### - readme.md
 ##### - block.html
-##### -  carpeta de Css
+##### - carpeta de Css
 ##### - estilos.ccs
 
 # Nuevas caracteristicas
-----
+### aqui ire colocando las nuevas funciones agregadas al sitio
 
-
-
-###Fin
+# Fin
